@@ -1,6 +1,13 @@
 <h1 align="center">Linkedin Connect</h1>
 
-Welcome to my **Linkedin Connect Bot**, a Chrome extension designed to make networking WAY easier!
+<p align="center">
+  <b>An extension designed to make networking WAY easier!</b>
+</p>
+
+[![Maintainability](https://img.shields.io/codeclimate/maintainability/alexlostorto/linkedin-connect?style=for-the-badge&message=Code+Climate&labelColor=222222&logo=Code+Climate&logoColor=FFFFFF)](https://codeclimate.com/github/alexlostorto/linkedin-connect/maintainability)
+![User Count](https://vbr.wocr.tk/badge?page_id=alexlostorto.linkedin-connect&text=users&lcolor=222222&color=ffc500&style=for-the-badge&logo=Github)
+
+Welcome to my **Linkedin Connect Bot**! Please read the **terms and conditions** [**here**](T&C.txt) before using the extension.
 
 ## ✨ Features
 
@@ -29,4 +36,4 @@ ANY USERS. WE DO NOT TAKE ANY LIABILITY FOR ANY DAMAGES INCURRED BY THE USE
 OF THIS SOFTWARE.
 ```
 
-If you have any questions, comments, or concerns about licensing please contact us.
+For full terms, see the [T&C](T&C.txt) file. If you have any questions, comments, or concerns about licensing please contact us.
