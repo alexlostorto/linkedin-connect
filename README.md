@@ -1,40 +1,32 @@
 <h1 align="center">Linkedin Connect</h1>
 
-Welcome to my **Linkedin Connect Bot**, an extension designed to make networking WAY easier!
+Welcome to my **Linkedin Connect Bot**, a Chrome extension designed to make networking WAY easier!
 
-```js
-// List of programs
-console.js;
-chrome_extension;
-```
-
-## Table of Contents
-
-<details>
-  <summary>Click to expand</summary>
-  
-- [Features](#features)
-- [Scripts](#scripts)
-  * [Console](#console)
-  * [Chrome Extension](#chrome-extension)
-- [Credits](#credits)
-</details>
-
-## Features
+## ✨ Features
 
 - Automatically **connects** with specific people on Linkedin
 - Can be used on **Android** (through Kiwi Browser)
 
-#### Console
+## ⚖️ Terms and Conditions
 
-1. This script works in the console.
+All code in this repository was developed by Alex lo Storto except where otherwise noted. Copyright (c) 2023, Alex lo Storto. All rights reserved. The code is licensed under the MIT license.
 
-#### Chrome extension
+```
+FOR EDUCATIONAL PURPOSES ONLY.
 
-1. An unpacked Chrome extension which utilises chrome's storage API to hold sparx data.
+THIS PROGRAM CONTAINS AN AUTOMATED CONNECT FUNCTION. ANY USERS OF THIS SOFTWARE
+SHALL NOT MODIFY IT FOR UNLAWFUL OR UNETHICAL USE OF THE LINKEDIN WEBSITE.
 
-## 📜 Credits
+THIS IS AN OPEN-SOURCE AND FREE SOFTWARE WHICH DOES NOT INCLUDE PURCHASES
+OF ANY KIND.
 
-Everything is coded by Alex lo Storto
+ALL COMPLAINTS SHALL BE FORMALLY ADDRESSED AS A GITHUB ISSUE ON THIS
+REPOSITORY.
 
-Licensed under the MIT License.
+THIS PROGRAM HAS NO CONNECTION WITH LINKEDIN. CHEATING OF ANY KIND IS NOT
+TOLERATED AND WE DO NOT TAKE ANY LIABILITY FOR THE USE OF THIS PROGRAM BY
+ANY USERS. WE DO NOT TAKE ANY LIABILITY FOR ANY DAMAGES INCURRED BY THE USE
+OF THIS SOFTWARE.
+```
+
+If you have any questions, comments, or concerns about licensing please contact us.
