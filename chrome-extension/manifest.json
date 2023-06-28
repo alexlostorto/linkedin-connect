@@ -1,0 +1,35 @@
+{
+    "manifest_version": 3,
+    "name": "Linkedin Bot",
+    "version": "1.0",
+    "description": "Automates networking",
+
+    "host_permissions": [
+      "*://www.linkedin.com/*"
+    ],
+  
+    "icons": {
+      "128": "logo.png"
+    },
+
+    "action": {
+      "default_icon": {
+        "128": "logo.png"
+      },
+      "default_title": "Linkedin Bot",
+      "default_popup": "popup.html"
+    },
+    
+    "permissions": [
+      "tabs"
+    ],
+
+    "content_scripts": [
+      {
+        "matches": ["*://www.linkedin.com/*"],
+        "js": ["contentScript.js"]
+      }
+    ]
+  
+  }
+  

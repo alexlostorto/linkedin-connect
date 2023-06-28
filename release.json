@@ -1,0 +1,8 @@
+{
+    "version": "v1.0",
+    "dependencies": {
+        "js": [],
+        "css": []
+    },
+    "contentScript": "https://cdn.jsdelivr.net/gh/alexlostorto/linkedin-connect@v1.0/console/console.js"
+}
