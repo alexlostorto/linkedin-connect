@@ -1,19 +1,7 @@
 console.log("Script is running");
 
-let descriptions = '';
-let actions = '';
-let execute = false;
-
-chrome.runtime.onMessage.addListener(function(request) {
-    if (!request.message === "Start") {return}
-
-    descriptions = request.description;
-    actions = request.action;
-
-    execute = !execute;
-
-    console.log(execute);
-});
+let descriptions = ''; // Example: 'software engineer computer'
+let actions = ''; // Example: 'connect follow'
 
 function hasText(matches, text) {
     text = text.toLowerCase();
@@ -29,7 +17,6 @@ function hasText(matches, text) {
 
 async function main() {
     console.log("Running");
-    if (!execute) {return}
     if (document.querySelector('.ember-view.display-flex') === null) {return}
 
     const people = document.querySelectorAll('.ember-view.display-flex');
