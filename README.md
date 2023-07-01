@@ -9,23 +9,32 @@
 
 Welcome to my **Linkedin Connect Bot**! Please read the **terms and conditions** [**here**](T&C.txt) before using the extension.
 
-## ⚡ Install Instructions
-
-1. Click the green "Code" button and select **"Download ZIP"** to download the extension's source code to your computer.
-2. **Extract** the downloaded ZIP file to a convenient location on your computer, such as your desktop or documents folder.
-3. Open **Google Chrome** on your Windows computer.
-4. Click the three-dot menu icon in the top-right corner of the Chrome window and select **"More tools" > "Extensions"** from the drop-down menu.
-5. In the Extensions tab, toggle on the **"Developer mode"** switch located in the top-right corner of the window.
-6. Click the **"Load unpacked"** button in the top-left corner of the window.
-7. Navigate to the folder where you extracted the extension's source code in step 3, and select it.
-8. Click **"Open"** to install the extension.
-
-> **Note** The extension should now appear in the Extensions tab, and you can use it as you normally would.
+```python
+# List of programs
+1. console.js
+2. chrome_extension
+```
 
 ## ✨ Features
 
 - Automatically **connects** with specific people on Linkedin
 - Can be used on **Android** (through Kiwi Browser)
+
+## ⚡ Quick setup
+
+1. Go to [**https://www.linkedin.com/mynetwork/**](https://www.linkedin.com/mynetwork/)
+2. Open the **Developers Console** with _Ctrl + Shift + J_
+1. **Copy** and **paste** the code from [**console.js**](console/console.js) into the browser's developer console.
+2. Replace the variables below with **appropriate** values (separated by a space).
+
+```js
+let descriptions = ''; // Example: 'software engineer computer'
+let actions = ''; // Example: 'connect follow'
+```
+
+5. Star the repo 😄
+
+> **Note** This is the temporary version of the program, download the Chrome Extension [here](docs/install.md) to use it permanently.
 
 ## 📋 How to Use
 
