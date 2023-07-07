@@ -11,5 +11,3 @@
 9. Click **"Open"** to install the extension.
 
 > **Note** The extension should now appear in the Extensions tab, and you can use it as you normally would.
-
- 
