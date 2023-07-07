@@ -22,7 +22,7 @@ Welcome to my **Linkedin Connect Bot**! Please read the **terms and conditions**
 
 ## ⚡ Quick setup
 
-1. Go to [**https://www.linkedin.com/mynetwork/**](https://www.linkedin.com/mynetwork/)
+1. Go to [**https://www.linkedin.com/mynetwork**](https://www.linkedin.com/mynetwork)
 2. Open the **Developers Console** with _Ctrl + Shift + J_
 1. **Copy** and **paste** the code from [**console.js**](console/console.js) into the browser's developer console.
 2. Replace the variables below with **appropriate** values (separated by a space).
